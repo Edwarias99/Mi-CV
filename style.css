@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(192, 192, 192);
+}
+
+p{
+    margin-left: 25px;
+}
+
+.foto{
+    margin: 4px;
+}
+
+h2{
+    padding: 2px 15px;
+    background-color: gray;
+}
